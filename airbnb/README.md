@@ -1,5 +1,5 @@
 
-#**About** : This is a project done q=while learning from scrimba
+#**About** : This project was done while learning from scrimba PS : Scroll down for preview images
 
 # Getting Started with Create React App
 

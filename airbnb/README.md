@@ -1,3 +1,6 @@
+
+#**About** : This is a project done q=while learning from scrimba
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +71,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+### Preview 
+
+![image](https://github.com/sriramhs-cc/Scrimba_learning/assets/144871445/90959a62-2801-4587-8b9e-0804f5ea8b84)

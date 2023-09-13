@@ -1,6 +1,11 @@
 
 #**About** : This project was done while learning from scrimba PS : Scroll down for preview images
 
+### Preview 
+
+![image](https://github.com/sriramhs-cc/Scrimba_learning/assets/144871445/90959a62-2801-4587-8b9e-0804f5ea8b84)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

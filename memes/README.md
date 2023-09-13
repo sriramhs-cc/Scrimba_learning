@@ -1,3 +1,8 @@
+#ABOUT : see images 
+![Screenshot 2023-09-13 112509](https://github.com/sriramhs-cc/Scrimba_learning/assets/144871445/1036ee5d-0aaf-46c8-bda1-e26c7841b4c6)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
